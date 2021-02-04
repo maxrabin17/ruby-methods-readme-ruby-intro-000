@@ -1,1 +1,5 @@
-ruby greeting.#!/usr/bin/env ruby -wKU
+def greeting
+  puts "hello World"
+end
+
+greeting
